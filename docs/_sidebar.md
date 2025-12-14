@@ -1,16 +1,6 @@
--  <span style='color:Blue'>[ 常用类库 ]</span>
--  [✡ [ 全局 ] Ext ](v1.0.0)
--  [✴ [ 环境 ] Ext.os ](v2.0.0)
+-  <span style='color:Blue'>[ 简要说明 ]</span>
+-  [✡ [ 编译运行 ] ](v1.0.0)
 -  -
--  [✴ [ 基元 ] Ext.Date ](v3.0.0)
--  [✴ [ 基元 ] Ext.String ](v4.0.0)
--  -
--  [✴ [ 基元 ] Ext.Array ](v6.0.0)
--  [✴ [ 基元 ] Ext.Object ](v7.0.0)
--  [✴ [ 基元 ] Ext.Function ](v5.0.0)
--  
--  <span style='color:Blue'>[ 常用组件 ]</span>
--  
--  <span style='color:Blue'>[ 常用功能 ]</span>
+-  [✴ [ 类型注解 ] ](T1.0.0)
 -  
 
