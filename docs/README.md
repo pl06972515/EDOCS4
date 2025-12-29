@@ -11,7 +11,8 @@
 >
 >- <span style='color:red'>[`TypeScript`需编译成`JavaScript`→ 最终交给浏览器或其他`JavaScript`运行环境执行 ]</span>
 >
->  <span style='color:Blue'>[ 项目根目录安装`pnpm add -D typescript -w`]</span>
+>   <span style='color:Blue'>[ 项目根目录安装`pnpm add -D typescript -w`]</span>
+>
 >
 ><br/>
 
