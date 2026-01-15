@@ -9,10 +9,9 @@
 >
 >- 其增加：静态类型检查、接口、泛型等很多现代开发特性
 >
->- <span style='color:red'>[`TypeScript`需编译成`JavaScript`→ 最终交给浏览器或其他`JavaScript`运行环境执行 ]</span>
+>- <span style='color:red'>[`.ts`需编译成`.js`→ 最终交给浏览器或其他`JavaScript`运行环境执行 ]</span>
 >
 >   <span style='color:Blue'>[ 项目根目录安装`pnpm add -D typescript -w`]</span>
->
 >
 ><br/>
 
